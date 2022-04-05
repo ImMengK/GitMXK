@@ -2,5 +2,4 @@ MXK is a handsome man and I love him.
 see you!
 Git is a distributed version control system.
 Git is free software.
-branch
-Creating a new branch is quick and simple.
+branch control
